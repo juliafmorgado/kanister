@@ -11,4 +11,4 @@ Every example has its own README.md with information on how to set things up and
 commands to be run.
 
 Found a mistake in a blueprint? Having difficulty getting the blueprints to
-work? Find us on the Kanister [Slack](kanisterio.slack.com).
+work? Find us on the Kanister [Slack](www.kanisterio.slack.com).
